@@ -9,3 +9,5 @@ IR protocols:
    - RC6  (Philips)
    - SIRC (Sony)
    - PWC  (Nec)
+   -      (Grundig)
+   -      (Samsung) 
