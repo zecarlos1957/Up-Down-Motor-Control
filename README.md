@@ -5,7 +5,7 @@ Two touch buttons up/down motor control with IR remote control
    - Two stage current limiter protection with programable delay
 
 IR protocols:
-    RC5  (Phlips)
-    RC6  (Philips)
-    SIRC (Sony)
-    PWC  (Nec)
+   - RC5  (Phlips)
+   - RC6  (Philips)
+   - SIRC (Sony)
+   - PWC  (Nec)
