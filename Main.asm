@@ -53,8 +53,8 @@
 ;   4   RA5    mode     (Schmitt Trigger input only)
 ;   5   GND
 ;   6   RB0    IR        
-;   7   RB1                 Serial Rx 
-;   8   RB2                 Serial Tx 
+;   7   RB1                 
+;   8   RB2                
 ;   9   RB3     - 
 ;  10   RB4    led Up        (I=6ma)               
 ;  11   RB5    Triac  Up     (I=7ma)              

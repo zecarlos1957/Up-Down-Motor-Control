@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="iso-8859-1" standalone="no"?>
+<!-- Generator: ULTIboard 8, 0, 0, 0 SVG Export Plug-In  -->
+<!--  NOTICE:  Copyright (c) 1999-2004 Electronics Workbench. -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20001102//EN" "http://www.w3.org/TR/2000/CR-SVG-20001102/DTD/svg-20001102.dtd">
+<svg width="65.609600mm" height="60.609600mm" viewBox="-5304 -55304 65609 60609"
+ xmlns="http://www.w3.org/2000/svg">
+
+<filter id="SelectFilter">
+
+	<feComponentTransfer>
+		<feFuncR type="linear" intercept="1"/>
+		<feFuncG type="linear" intercept="1"/>
+        <feFuncB type="linear" intercept="1"/>
+    </feComponentTransfer>
+</filter>
+
+<script LANGUAGE="JavaScript">
+
+function Init(evt)
+{
+	top.GraphicsDoc = evt.target.ownerDocument;
+}
+
+</script>
+
+<g onload="Init(evt)" transform="scale(1,-1)">
+	<rect x="-5304" y="-5304" width="65609" height="60609" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" stroke-linecap="round" />
+	<g id="Board Outline">
+		<line stroke="#ffff00" stroke-width="1" stroke-linecap="round" x1="0" y1="0" x2="55000" y2="0"/>
+		<line stroke="#ffff00" stroke-width="1" stroke-linecap="round" x1="55000" y1="0" x2="55000" y2="50000"/>
+		<line stroke="#ffff00" stroke-width="1" stroke-linecap="round" x1="55000" y1="50000" x2="0" y2="50000"/>
+		<line stroke="#ffff00" stroke-width="1" stroke-linecap="round" x1="0" y1="50000" x2="0" y2="0"/>
+	</g>
+	<g id="Copper Bottom">
+		<line stroke="#ff0000" stroke-width="500" stroke-linecap="round" x1="32385" y1="15557" x2="32346" y2="15595"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="25400" y1="1270" x2="35877" y2="1270"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="32385" y1="15557" x2="36390" y2="15557"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="31933" y1="6522" x2="33000" y2="6522"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="41770" y1="30619" x2="31788" y2="30619"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="28500" y1="34682" x2="33045" y2="39227"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="30870" y1="39500" x2="32921" y2="39500"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="31026" y1="7429" x2="31933" y2="6522"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="32346" y1="15595" x2="31026" y2="14274"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="31788" y1="30619" x2="29616" y2="28448"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="31296" y1="48755" x2="34052" y2="46000"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="24266" y1="48755" x2="31296" y2="48755"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="15250" y1="34452" x2="15250" y2="29962"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="12331" y1="1016" x2="25006" y2="1016"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="13212" y1="5482" x2="16332" y2="5482"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="16332" y1="5482" x2="16790" y2="5940"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="15100" y1="14250" x2="16790" y2="15940"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="15250" y1="29962" x2="16790" y2="28422"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="9639" y1="10706" x2="9639" y2="22072"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="5156" y1="8191" x2="12331" y2="1016"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="5156" y1="14820" x2="5156" y2="8191"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="5181" y1="14325" x2="5080" y2="14325"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="13212" y1="5482" x2="13212" y2="4275"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="11163" y1="8851" x2="11456" y2="9144"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="11456" y1="9144" x2="14224" y2="9144"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="9639" y1="10706" x2="11201" y2="9144"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="13250" y1="14250" x2="15100" y2="14250"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="9182" y1="29578" x2="5194" y2="29578"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="9639" y1="22072" x2="7226" y2="24485"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="7226" y1="24485" x2="5181" y2="24485"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="14020" y1="24739" x2="9182" y2="29578"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="14020" y1="19750" x2="14020" y2="24739"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="14250" y1="19750" x2="14250" y2="19330"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="14250" y1="19750" x2="14020" y2="19750"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="16790" y1="15940" x2="16790" y2="15520"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="16790" y1="15940" x2="16790" y2="15520"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="29629" y1="1270" x2="29629" y2="17335"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="16790" y1="15690" x2="16790" y2="21844"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="25380" y1="9062" x2="24302" y2="9062"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="24302" y1="9062" x2="24130" y2="8890"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="24130" y1="8890" x2="20190" y2="8890"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="25380" y1="3982" x2="24302" y2="3982"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="24302" y1="3982" x2="24130" y2="3810"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="24130" y1="3810" x2="21310" y2="3810"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="22979" y1="13970" x2="23894" y2="13055"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="23894" y1="13055" x2="25380" y2="13055"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="16764" y1="15240" x2="16764" y2="7620"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="16764" y1="7620" x2="17044" y2="7340"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="17044" y1="7340" x2="17044" y2="5940"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="21310" y1="3810" x2="20870" y2="4250"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="20190" y1="8890" x2="19330" y2="9750"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="21590" y1="13970" x2="21310" y2="14250"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="21310" y1="14250" x2="20870" y2="14250"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="22979" y1="13970" x2="21590" y2="13970"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="31026" y1="14274" x2="31026" y2="7429"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="25006" y1="1016" x2="25400" y2="1270"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="22789" y1="19050" x2="23703" y2="18135"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="23703" y1="18135" x2="25380" y2="18135"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="20628" y1="26272" x2="24900" y2="22000"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="16790" y1="28422" x2="16790" y2="21844"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="20030" y1="19050" x2="19330" y2="19750"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="22789" y1="19050" x2="20030" y2="19050"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="20628" y1="27050" x2="20628" y2="26272"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="29616" y1="17348" x2="29616" y2="28448"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="24900" y1="27080" x2="28502" y2="27080"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="28502" y1="27080" x2="29616" y2="28194"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="15250" y1="34452" x2="20297" y2="39500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="10792" y1="47000" x2="15750" y2="47000"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="5181" y1="41389" x2="10792" y2="47000"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="5181" y1="41389" x2="5181" y2="34645"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="22192" y1="46681" x2="24266" y2="48755"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="20297" y1="39500" x2="23250" y2="39500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="20628" y1="46681" x2="22192" y2="46681"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="28500" y1="33500" x2="28500" y2="34682"/>
+		<line stroke="#ff0000" stroke-width="254" stroke-linecap="round" x1="24638" y1="43942" x2="30480" y2="43942"/>
+		<line stroke="#ff0000" stroke-width="254" stroke-linecap="round" x1="27686" y1="40894" x2="27686" y2="46990"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="27659" cy="43915" r="1500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="53340" y1="27886" x2="53340" y2="38100"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="37401" y1="32461" x2="37401" y2="42608"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="37401" y1="32461" x2="35560" y2="30619"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="46990" y1="21710" x2="48140" y2="21710"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="48140" y1="21710" x2="49060" y2="20789"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="47955" y1="25958" x2="49034" y2="24879"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="48927" y1="8871" x2="45009" y2="12788"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="48651" y1="15127" x2="45923" y2="17856"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="48651" y1="15127" x2="48750" y2="13970"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="48882" y1="27940" x2="45720" y2="27940"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="46304" y1="25958" x2="47955" y2="25958"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="43091" y1="15328" x2="41808" y2="15328"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="39141" y1="15741" x2="39141" y2="11642"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="42420" y1="21587" x2="36390" y2="15557"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="39141" y1="15741" x2="44221" y2="20821"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="46990" y1="19189" x2="43110" y2="15309"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="41808" y1="5168" x2="40728" y2="5168"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="40728" y1="5168" x2="40640" y2="5080"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="37147" y1="2540" x2="41808" y2="2540"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="40640" y1="5080" x2="35483" y2="5080"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="41630" y1="7886" x2="39103" y2="7886"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="39141" y1="11642" x2="40640" y2="10248"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="39103" y1="7886" x2="36677" y2="10312"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="35877" y1="1270" x2="37147" y2="2540"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="35483" y1="5080" x2="34213" y2="3810"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="33000" y1="3810" x2="33000" y2="3982"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="34213" y1="3810" x2="33000" y2="3810"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="35560" y1="12700" x2="34290" y2="12700"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="36677" y1="11582" x2="35560" y2="12700"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="34290" y1="12700" x2="33934" y2="13055"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="33934" y1="13055" x2="33000" y2="13055"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="36677" y1="10312" x2="36677" y2="11582"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="41630" y1="7886" x2="41808" y2="7708"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="41808" y1="2540" x2="41808" y2="2628"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45009" y1="12788" x2="41808" y2="12788"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="40728" y1="10248" x2="41808" y2="10248"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="39370" y1="24250" x2="39370" y2="24130"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="39370" y1="21710" x2="38100" y2="21710"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="39370" y1="24250" x2="39370" y2="24130"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="39370" y1="24130" x2="39281" y2="24138"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="39281" y1="24138" x2="39281" y2="25501"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="38100" y1="21710" x2="33997" y2="25618"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="34807" y1="20955" x2="36500" y2="19262"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="34200" y1="20955" x2="33155" y2="22000"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="34807" y1="20955" x2="34200" y2="20955"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="36700" y1="26670" x2="36500" y2="26870"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="38112" y1="26670" x2="36700" y2="26670"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="35458" y1="30467" x2="35560" y2="30467"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="35560" y1="30467" x2="35560" y2="30619"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="33997" y1="26237" x2="33155" y2="27080"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="33997" y1="25618" x2="33997" y2="26237"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="39281" y1="25501" x2="38112" y2="26670"/>
+		<line stroke="#ff0000" stroke-width="500" stroke-linecap="round" x1="45808" y1="23830" x2="46570" y2="23830"/>
+		<line stroke="#ff0000" stroke-width="500" stroke-linecap="round" x1="46570" y1="23830" x2="46990" y2="24250"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="44894" y1="25565" x2="42420" y2="23091"/>
+		<line stroke="#ff0000" stroke-width="500" stroke-linecap="round" x1="44221" y1="22243" x2="45808" y2="23830"/>
+		<line stroke="#ff0000" stroke-width="500" stroke-linecap="round" x1="44221" y1="20821" x2="44221" y2="22243"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="42420" y1="23091" x2="42420" y2="21587"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="46990" y1="19189" x2="46990" y2="21710"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="44890" y1="27500" x2="41770" y2="30619"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45720" y1="27940" x2="45720" y2="27886"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45720" y1="27886" x2="45333" y2="27500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45333" y1="27500" x2="44890" y2="27500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45333" y1="27500" x2="45720" y2="27886"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45720" y1="27886" x2="45720" y2="27940"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45333" y1="27500" x2="45720" y2="27886"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45720" y1="27886" x2="45720" y2="27940"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45720" y1="27940" x2="45720" y2="27886"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="45720" y1="27886" x2="45333" y2="27500"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="46304" y1="25958" x2="45910" y2="25565"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="44894" y1="25565" x2="45910" y2="25565"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="52990" y1="10788" x2="52990" y2="17281"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="51049" y1="8847" x2="52990" y2="10788"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="48855" y1="8800" x2="48902" y2="8847"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="51049" y1="8847" x2="48902" y2="8847"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="54236" y1="26217" x2="54236" y2="21374"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="52101" y1="23999" x2="51206" y2="24894"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="52101" y1="23999" x2="52101" y2="23250"/>
+		<line stroke="#ff0000" stroke-width="700" stroke-linecap="round" x1="49034" y1="24879" x2="49034" y2="20815"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="53613" y1="20751" x2="52006" y2="20751"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="52006" y1="20751" x2="51965" y2="20710"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="49022" y1="20828" x2="51983" y2="20828"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="52990" y1="17281" x2="52101" y2="18170"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="54236" y1="21374" x2="53613" y2="20751"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="51206" y1="25615" x2="48882" y2="27940"/>
+		<line stroke="#ff0000" stroke-width="800" stroke-linecap="round" x1="51206" y1="24894" x2="51206" y2="25615"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="54236" y1="26217" x2="52953" y2="27500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="52953" y1="27500" x2="53340" y2="27886"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="41550" y1="41000" x2="49050" y2="33500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="51500" y1="41503" x2="46663" y2="46340"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="33045" y1="40500" x2="33045" y2="39227"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="33743" y1="41198" x2="33045" y2="40500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="35500" y1="44510" x2="35500" y2="46000"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="37401" y1="42608" x2="35500" y2="44510"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="34052" y1="46000" x2="35500" y2="46000"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="46663" y1="46340" x2="41090" y2="46340"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="41340" y1="41000" x2="41550" y2="41000"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="52070" y1="39930" x2="51500" y2="40500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="53340" y1="38100" x2="52070" y2="39370"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="52070" y1="39370" x2="51500" y2="40500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="51500" y1="41503" x2="51500" y2="40500"/>
+		<line stroke="#ff0000" stroke-width="1000" stroke-linecap="round" x1="49050" y1="33500" x2="50979" y2="33500"/>
+	</g>
+		<g id="Solder Mask Bottom">
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="33000" cy="6522" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="33000" cy="9062" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="25380" cy="3982" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="25380" cy="6522" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="25380" cy="9062" r="804"/>
+		<rect fill="#FF0000" stroke="#FF0000" stroke-width="1" x="32238" y="3220" width="1524" height="1524" rx="423" ry="423"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="33000" cy="18135" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="33000" cy="15595" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="25380" cy="15595" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="25380" cy="13055" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="25380" cy="18135" r="804"/>
+		<rect fill="#FF0000" stroke="#FF0000" stroke-width="1" x="32238" y="12293" width="1524" height="1524" rx="423" ry="423"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="33155" cy="22000" r="1248"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="33155" cy="27080" r="1248"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="24300" cy="22000" r="1248"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="24300" cy="27080" r="1248"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="28500" cy="33500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="50979" cy="33500" r="910"/>
+		<rect fill="#FF0000" stroke="#FF0000" stroke-width="1" x="3931" y="13075" width="2500" height="2500" rx="645" ry="645"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="5181" cy="24485" r="1250"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="5181" cy="19405" r="1250"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="5181" cy="29565" r="1250"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="5181" cy="34645" r="1250"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="20628" cy="27050" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="20628" cy="39750" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="15250" cy="31760" r="1058"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="15250" cy="47000" r="1058"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="16790" cy="15940" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="14250" cy="19750" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="19330" cy="19750" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="13250" cy="4250" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="20870" cy="4250" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="16790" cy="5940" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="14250" cy="9750" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="19330" cy="9750" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="13250" cy="14250" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="20870" cy="14250" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="20574" cy="46990" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="23250" cy="39500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="30870" cy="39500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="45333" cy="27500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="52953" cy="27500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="46990" cy="24250" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="46990" cy="21710" r="804"/>
+		<rect fill="#FF0000" stroke="#FF0000" stroke-width="1" x="38608" y="23488" width="1524" height="1524" rx="423" ry="423"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="39370" cy="21710" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="48750" cy="8300" r="750"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="48750" cy="13830" r="750"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="41750" cy="15321" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="41750" cy="7701" r="804"/>
+		<rect fill="#FF0000" stroke="#FF0000" stroke-width="1" x="40988" y="1859" width="1524" height="1524" rx="497" ry="497"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="41750" cy="5161" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="41750" cy="12781" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="41750" cy="10241" r="804"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="36500" cy="19250" r="750"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="36500" cy="26870" r="750"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="52101" cy="23250" r="994"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="52101" cy="18170" r="994"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="52101" cy="20710" r="994"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="41090" cy="40500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="51250" cy="40500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="40580" cy="46000" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="35500" cy="46000" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="33630" cy="40500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="41250" cy="40500" r="910"/>
+		<circle  fill="#FF0000" stroke="#FF0000" stroke-width="1" cx="43250" cy="40500" r="910"/>
+	</g>
+		<g id="Holes">
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33000" cy="6522" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33000" cy="9062" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="25380" cy="3982" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="25380" cy="6522" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="25380" cy="9062" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33000" cy="3982" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33000" cy="18135" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33000" cy="15595" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="25380" cy="15595" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="25380" cy="13055" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="25380" cy="18135" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33000" cy="13055" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33155" cy="22000" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33155" cy="27080" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="24300" cy="22000" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="24300" cy="27080" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="28500" cy="33500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="50979" cy="33500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="5181" cy="14330" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="5181" cy="24485" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="5181" cy="19405" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="5181" cy="29565" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="5181" cy="34645" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="20628" cy="27050" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="20628" cy="39750" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="15250" cy="31760" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="15250" cy="47000" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="16790" cy="15940" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="14250" cy="19750" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="19330" cy="19750" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="13250" cy="4250" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="20870" cy="4250" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="16790" cy="5940" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="14250" cy="9750" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="19330" cy="9750" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="13250" cy="14250" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="20870" cy="14250" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="20574" cy="46990" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="23250" cy="39500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="30870" cy="39500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="45333" cy="27500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="52953" cy="27500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="46990" cy="24250" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="46990" cy="21710" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="39370" cy="24250" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="39370" cy="21710" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="48750" cy="8300" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="48750" cy="13830" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="41750" cy="15321" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="41750" cy="7701" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="41750" cy="2621" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="41750" cy="5161" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="41750" cy="12781" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="41750" cy="10241" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="36500" cy="19250" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="36500" cy="26870" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="52101" cy="23250" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="52101" cy="18170" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="52101" cy="20710" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="41090" cy="40500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="51250" cy="40500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="40580" cy="46000" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="35500" cy="46000" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="33630" cy="40500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1" cx="41250" cy="40500" r="300"/>
+		<circle  fill="#FFFFFF" stroke="#FF0000" stroke-width="1" cx="43250" cy="40500" r="300"/>
+	</g>
+</g>
+</svg>
