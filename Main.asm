@@ -818,7 +818,7 @@ TMR0_ISR
      bcf INTCON,T0IE
     bsf STATUS,RP0
     movlw CONFIG_1
-    movwf OPTION_REG   ; restore INT edge triger
+    movwf OPTION_REG   ; restore INT edge trigger
     bcf STATUS,RP0
     bcf INTCON,INTE  ; prevent memory corruption with new data  IR buffer
      goto IntReturn
