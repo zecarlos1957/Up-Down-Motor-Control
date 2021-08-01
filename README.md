@@ -24,4 +24,4 @@ IR protocols:
    - (Grundig)
    - (Samsung) 
 
-![Screenshot](images/005.png)
+![Screenshot](/images/005.png)
