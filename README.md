@@ -11,10 +11,8 @@ After designing and testing the schematic in an electronic circuit simulator, ma
 This should measure the current in the circuit so as to be able to switch off the triac when the limit switch is activated opening the circuit, and providing protection against short circuit as well as detecting mechanical arrest in the motor.
     It should distinguish a short press from a long press on the up or down button. A short press should go all the way until activate the limit switch. ´With a long press it should end the action at press ending.
 
+Provide a button to enter in configuration mode. This button will initialize a sequence to detect and store in memory the keys from IR command that will trigger the up and down commands, identifyed by a blinking led.
 
-The strategy used was to create a loop for 20ms reading the RA1 port.
-
-continue...
 
 IR protocols:
    - RC5  (Phlips)
@@ -24,4 +22,4 @@ IR protocols:
    - (Grundig)
    - (Samsung) 
 
-![Screenshot](/images/005.png)
+![Screenshot](https://github.com/zecarlos1957/Up-Down-Motor-Control/images/005.png)
