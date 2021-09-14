@@ -22,4 +22,4 @@ IR protocols:
    - (Grundig)
    - (Samsung) 
 
-![Screenshot](https://github.com/zecarlos1957/Up-Down-Motor-Control/Images/005.png)
+![Screenshot](Images/005.png)
